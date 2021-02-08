@@ -1,6 +1,6 @@
 /**
  * @usage:
- * Editor.addMark(editor,'font-size', 'lightgreen');
+ * Editor.addMark(editor,'font-size', '14px');
  */
 
 import React from 'react';
